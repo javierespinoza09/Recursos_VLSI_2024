@@ -7,7 +7,7 @@ $$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$
 * Punto 1
 * Punto 2
 * Punto 3
-## Solucióm
+## Solución
 ### Para insertar código
 ```python
 import time
@@ -25,3 +25,4 @@ while True
 
 ## Análisis
 ### Incluir figuras 
+![Logo](figuras/Firma_TEC.png)
