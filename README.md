@@ -3,7 +3,7 @@
 ### Para una fórmula en *markdown*
 $$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
 ## Datos Relevantes
-### Para generar listas{
+### Para generar listas
 * Punto 1
 * Punto 2
 * Punto 3
